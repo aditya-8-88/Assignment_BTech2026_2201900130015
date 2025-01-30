@@ -14,3 +14,17 @@ Design a parking lot system that supports different vehicle types and manages pa
 - If a vehicle matches the spot type and is available, it is parked.
 
 ---
+
+## 2. ATM System
+### Problem Statement:
+Create an ATM system that allows deposits, withdrawals, and balance checks.
+
+### Approach:
+- Use `Account` class to handle balances.
+- Use `ATM` class to interact with an account.
+
+### Solution Explanation:
+- The `withdraw` method checks if enough balance is available.
+- The `deposit` method increases the balance.
+
+---
