@@ -70,3 +70,17 @@ Create a shopping cart that allows adding items and calculating total price.
 - `getTotal` method sums up item prices.
 
 ---
+
+## 6. Social Media Follow System - 31 jan, 2025
+### Problem Statement:
+Design a system where users can follow each other and see follower count.
+
+### Approach:
+- `User` class with `follow` method.
+- Maintain a `Set<User>` for followers.
+
+### Solution Explanation:
+- A user can follow another by adding to their follower list.
+- The follower count is tracked dynamically.
+
+---
