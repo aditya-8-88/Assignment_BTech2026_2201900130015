@@ -56,3 +56,17 @@ Develop a system to book and manage tickets.
 - Booking status is updated accordingly.
 
 ---
+
+## 5. Online Shopping Cart System - 30 jan, 2025
+### Problem Statement:
+Create a shopping cart that allows adding items and calculating total price.
+
+### Approach:
+- `Item` class to store product details.
+- `Cart` class to add items and compute total.
+
+### Solution Explanation:
+- Items are stored in a list.
+- `getTotal` method sums up item prices.
+
+---
