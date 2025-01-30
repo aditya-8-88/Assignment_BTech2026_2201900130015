@@ -28,3 +28,17 @@ Create an ATM system that allows deposits, withdrawals, and balance checks.
 - The `deposit` method increases the balance.
 
 ---
+
+## 3. Library Management System
+### Problem Statement:
+Design a system to manage books, borrowing, and returning.
+
+### Approach:
+- `Book` class with `borrow` and `returnBook` methods.
+- Maintain a boolean flag for availability.
+
+### Solution Explanation:
+- Books can be borrowed only if available.
+- When returned, they become available again.
+
+---
