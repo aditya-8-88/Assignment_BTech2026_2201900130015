@@ -1,6 +1,6 @@
 # Advanced Object Oriented Programming Questions
 
-## 1. Parking Lot System
+## 1. Parking Lot System - 26 jan, 2025
 ### Problem Statement:
 Design a parking lot system that supports different vehicle types and manages parking spots.
 
@@ -15,7 +15,7 @@ Design a parking lot system that supports different vehicle types and manages pa
 
 ---
 
-## 2. ATM System
+## 2. ATM System - 27 jan, 2025
 ### Problem Statement:
 Create an ATM system that allows deposits, withdrawals, and balance checks.
 
@@ -29,7 +29,7 @@ Create an ATM system that allows deposits, withdrawals, and balance checks.
 
 ---
 
-## 3. Library Management System
+## 3. Library Management System - 28 jan, 2025
 ### Problem Statement:
 Design a system to manage books, borrowing, and returning.
 
@@ -40,5 +40,19 @@ Design a system to manage books, borrowing, and returning.
 ### Solution Explanation:
 - Books can be borrowed only if available.
 - When returned, they become available again.
+
+---
+
+## 4. Ticket Booking System - 29 jan, 2025
+### Problem Statement:
+Develop a system to book and manage tickets.
+
+### Approach:
+- `Ticket` class with `book` method.
+- Keep track of whether a ticket is booked.
+
+### Solution Explanation:
+- Users can book a ticket if it is not already booked.
+- Booking status is updated accordingly.
 
 ---
