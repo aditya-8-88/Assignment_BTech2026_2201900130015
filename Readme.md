@@ -84,3 +84,17 @@ Design a system where users can follow each other and see follower count.
 - The follower count is tracked dynamically.
 
 ---
+
+## 7. File Storage System
+### Problem Statement:
+Design a system for organizing files and folders.
+
+### Approach:
+- `File` class for storing file details.
+- `Folder` class to contain multiple files.
+
+### Solution Explanation:
+- `Folder` holds a list of `File` objects.
+- Files can be added dynamically to a folder.
+
+---
