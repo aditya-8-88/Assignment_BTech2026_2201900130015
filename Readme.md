@@ -85,7 +85,7 @@ Design a system where users can follow each other and see follower count.
 
 ---
 
-## 7. File Storage System
+## 7. File Storage System - 01 feb, 2025
 ### Problem Statement:
 Design a system for organizing files and folders.
 
@@ -96,5 +96,32 @@ Design a system for organizing files and folders.
 ### Solution Explanation:
 - `Folder` holds a list of `File` objects.
 - Files can be added dynamically to a folder.
+
+---
+
+## 8. Chess Game - 02 feb, 2025
+### Problem Statement:
+Create a basic chess game structure with different piece movements.
+
+### Approach:
+- Use an abstract `Piece` class.
+- Create concrete classes like `King`, `Queen` with unique movement logic.
+
+### Solution Explanation:
+- Each piece implements its own `isValidMove` method.
+- The King can move one step in any direction.
+
+---
+
+## 9. Elevator System - 03 feb, 2025
+### Problem Statement:
+Build a system to simulate an elevator moving between floors.
+
+### Approach:
+- `Elevator` class with `goToFloor` method.
+- Keep track of the current floor.
+
+### Solution Explanation:
+- The elevator moves to the requested floor and updates its position.
 
 ---
