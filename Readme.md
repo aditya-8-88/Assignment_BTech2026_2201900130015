@@ -125,3 +125,17 @@ Build a system to simulate an elevator moving between floors.
 - The elevator moves to the requested floor and updates its position.
 
 ---
+
+## 10. Messaging System
+### Problem Statement:
+Develop a simple messaging system where users can send messages to each other.
+
+### Approach:
+- `Message` class with sender, receiver, and content fields.
+- `showMessage` method to display messages.
+
+### Solution Explanation:
+- Messages are created with sender and receiver details.
+- They can be displayed when needed.
+
+---
