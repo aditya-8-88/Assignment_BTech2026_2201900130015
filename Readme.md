@@ -139,3 +139,17 @@ Develop a simple messaging system where users can send messages to each other.
 - They can be displayed when needed.
 
 ---
+
+## 11. Ride-Sharing System (Uber/Ola)
+### Problem Statement:
+Design a ride-sharing system that assigns drivers to passengers.
+
+### Approach:
+- `Driver` class with availability status.
+- `Ride` class to handle ride assignment.
+
+### Solution Explanation:
+- If a driver is available, a ride is assigned.
+- The ride starts and ends, updating the driver's availability.
+
+---
