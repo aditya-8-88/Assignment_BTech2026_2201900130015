@@ -153,3 +153,17 @@ Design a ride-sharing system that assigns drivers to passengers.
 - The ride starts and ends, updating the driver's availability.
 
 ---
+
+## 12. Movie Streaming System (Netflix)
+### Problem Statement:
+Design a system where users can watch movies.
+
+### Approach:
+- `Movie` class with `play` method.
+- `User` class with `watchMovie` method.
+
+### Solution Explanation:
+- A user selects a movie to watch.
+- The movie starts playing when selected.
+
+---
