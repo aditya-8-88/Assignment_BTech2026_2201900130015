@@ -126,7 +126,7 @@ Build a system to simulate an elevator moving between floors.
 
 ---
 
-## 10. Messaging System
+## 10. Messaging System - 04 feb, 2025
 ### Problem Statement:
 Develop a simple messaging system where users can send messages to each other.
 
@@ -140,7 +140,7 @@ Develop a simple messaging system where users can send messages to each other.
 
 ---
 
-## 11. Ride-Sharing System (Uber/Ola)
+## 11. Ride-Sharing System (Uber/Ola) - 05 feb, 2025
 ### Problem Statement:
 Design a ride-sharing system that assigns drivers to passengers.
 
@@ -154,7 +154,7 @@ Design a ride-sharing system that assigns drivers to passengers.
 
 ---
 
-## 12. Movie Streaming System (Netflix)
+## 12. Movie Streaming System (Netflix) - 06 feb, 2025
 ### Problem Statement:
 Design a system where users can watch movies.
 
@@ -165,5 +165,33 @@ Design a system where users can watch movies.
 ### Solution Explanation:
 - A user selects a movie to watch.
 - The movie starts playing when selected.
+
+---
+
+## 13. Hotel Booking System - 07 feb, 2025
+### Problem Statement:
+Develop a system for booking hotel rooms.
+
+### Approach:
+- `Room` class with availability status.
+- `Hotel` class with multiple rooms.
+
+### Solution Explanation:
+- Users can book a room if available.
+- After checkout, the room becomes available again.
+
+---
+
+## 14. Banking System - 08 feb, 2025
+### Problem Statement:
+Create a banking system with different account types.
+
+### Approach:
+- Abstract `BankAccount` class.
+- Concrete classes like `SavingsAccount` with withdrawal rules.
+
+### Solution Explanation:
+- Savings accounts have a minimum balance restriction.
+- Deposits and withdrawals update the balance accordingly.
 
 ---
