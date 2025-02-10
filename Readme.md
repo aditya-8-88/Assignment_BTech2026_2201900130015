@@ -195,3 +195,16 @@ Create a banking system with different account types.
 - Deposits and withdrawals update the balance accordingly.
 
 ---
+
+## 15. Online Quiz System - 09 feb, 2025
+### Problem Statement:
+Build a quiz system where users answer questions.
+
+### Approach:
+- `Question` class with text and answer.
+- `Quiz` class to manage a list of questions.
+
+### Solution Explanation:
+- Users answer each question interactively.
+- The score is calculated at the end.
+
